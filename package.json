@@ -13,7 +13,7 @@
     "express": "^4.16.4",
     "nodemon": "^1.18.11",
     "pug": "^2.0.4",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "scripts": {
     "dev:server": "nodemon --exec babel-node src/server"
